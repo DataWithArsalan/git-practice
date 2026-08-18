@@ -1,4 +1,4 @@
-string = 'Japan'
+string = 'US'
 for i in string:
     print(i)
     
